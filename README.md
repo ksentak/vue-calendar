@@ -1,24 +1,5 @@
 # vue-calendar
 
-## Project setup
-```
-npm install
-```
+A calendar created with Vue and Firebase. Users have full CRUD functionality and events are saved in Firebase.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![App Screenshot](./src/assets/vue_calendar.png)
